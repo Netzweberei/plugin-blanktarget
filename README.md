@@ -9,6 +9,6 @@ Plugin auschecken oder runterladen und aktivieren
 
     plugins:
         enable:
-            - blnaktarget
+            - blanktarget
 
 Fertig (es gibt keine Konfigurationsmöglichkeiten).
